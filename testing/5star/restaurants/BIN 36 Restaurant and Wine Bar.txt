@@ -1,0 +1,31 @@
+BIN 36 Restaurant and Wine Bar
+Author: Aiman Zayed
+Rating: 5
+Time: 1505337384
+Text:
+I’ve been coming to BIN 36 for the last eight months roughly once a month. Service is great, the manager or owner (not exactly sure) is always there making sure everything is running smoothly. Today, at lunch the manager/owner noticed that my table was a little wobbly and took it upon himself to fix it without me bringing it up. A+ service in my book, exemplary  service.
+-
+Author: Mrs. Stewart
+Rating: 4
+Time: 1508170367
+Text:
+The atmosphere is pleasant and light. The brunch options were unique and well  prepared. Its worth a try.
+-
+Author: Pamela Kramer
+Rating: 5
+Time: 1497912531
+Text:
+Don't miss lunch or dinner at this lovely restaurant. The food is fabulous -- make sure to order the Brussels sprout appetizer. We loved the meatball appetizer as well. The burger was great, the salads are good, and the fish sandwich was terrific. We were there for lunch, but with the excellent wine selection, dinner would be fabulous as well! The owner, Enoch, is there a lot and makes sure that everything goes well. I'll be back!
+-
+Author: Cory Straim
+Rating: 4
+Time: 1506019448
+Text:
+Great food, smallish portions and the food took a long time to come out.  They gave us free drinks to accommodate the wait.  Hopefully it was just a glitch
+-
+Author: Shayna Atkins
+Rating: 5
+Time: 1503347461
+Text:
+Organized a private event at Bin36 and truly had a phenomenal experience. The service was excellent, the staff was friendly and welcoming, and we truly has a phenomenal time. Would love to do it again.
+-

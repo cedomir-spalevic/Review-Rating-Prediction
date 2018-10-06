@@ -1,0 +1,31 @@
+Taco Bell
+Author: Scott Bright
+Rating: 5
+Time: 1509452665
+Text:
+Clean fast and friendly. The naked egg tacos were fresh, hot, and amazing!
+-
+Author: Marney
+Rating: 1
+Time: 1505228321
+Text:
+I've been twice. Both times the staff was distracted and obviously in a hurry to get customers out of the way. I had to tell both cashiers to wait, that I wasn't done ordering. The food took forever to get, first time the order was wrong and what I did get was old and cold. Second time, the food was cold and all smashed. This place is horrible.
+-
+Author: Sammie Louise
+Rating: 1
+Time: 1501776971
+Text:
+I went to this taco bell on June 29, 2017 and got a chicken quesadilla. Took 2 or 3 bites and didn't think it tasted good and threw it out. I ended up with Salmonella and have been on and off antibiotics ever since, today is August 3rd and I am going on another round of antibiotics and I can not get this kicked. I would not recommend this Taco Bell to anyone.
+-
+Author: Maleta Garland
+Rating: 4
+Time: 1508382517
+Text:
+Good place to eat most of the time
+-
+Author: John L Vine Jr
+Rating: 5
+Time: 1507798070
+Text:
+Good food, good service.
+-

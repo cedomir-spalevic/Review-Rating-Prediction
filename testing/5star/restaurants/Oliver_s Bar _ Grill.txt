@@ -1,0 +1,31 @@
+Oliver's Bar & Grill
+Author: Rick Clancy
+Rating: 4
+Time: 1507819277
+Text:
+Good food, great service. Great lunch specials.
+-
+Author: George Lopez
+Rating: 4
+Time: 1503525496
+Text:
+Great place for an affordable meal. Decent beer selection, sports are always on of you're into that. Only complaint I've had is the bald bartender with tattoos is rude.
+-
+Author: Nathan Wood
+Rating: 4
+Time: 1501372995
+Text:
+Always enjoying coming here for after work gatherings it to as a quick getaway during events in the nearby ballrooms. Good food and drinks.
+-
+Author: Jenny Boeckmann
+Rating: 5
+Time: 1506977581
+Text:
+The food and service is always good here.
+-
+Author: V N Chronicler
+Rating: 5
+Time: 1499060199
+Text:
+Always a good time. Good food and drink options if you're ever in the outer south region of Chicagoland and need a decent getaway that is still within reach of the metropolis. 
+-

@@ -1,0 +1,31 @@
+A. Fusion
+Author: Markiece Breeding
+Rating: 4
+Time: 1507496833
+Text:
+Never had a bad experience. I have had delivery and dine in. It's generally a good experience and the food is always good.
+-
+Author: Ammanuel Melaku Ayalew
+Rating: 5
+Time: 1502150767
+Text:
+Great food with impeccable service! I have been to this place multiple times and was never disappointed. And their price is reasonable.
+-
+Author: Frank Littlefield
+Rating: 5
+Time: 1498608917
+Text:
+We ordered soup, sushi, rolls and an entree. Everything was fantastic. We thought the pricing was a bit on the high end, but once we saw the portion size and tasted how great everything was, we realized we were getting a deal. We still have enough left over for an entire meal of leftovers.
+-
+Author: Jason Knowles
+Rating: 5
+Time: 1505513760
+Text:
+The manager here is a real delight. The food also comes in large quantities and tastes great!
+-
+Author: Jake Blues
+Rating: 4
+Time: 1504139790
+Text:
+Really good Chinese food and sushi at reasonable prices with great service.
+-

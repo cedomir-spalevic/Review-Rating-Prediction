@@ -1,0 +1,31 @@
+Border Town Pub Brewery & Eatery
+Author: Christina Pedroza
+Rating: 5
+Time: 1498651728
+Text:
+I highly recommend this to everyone. Really great food. The burgers are huge and taste fabulous, the chicken is the best, fries are perfect, and the employees are amazing. 
+-
+Author: Don Eger
+Rating: 4
+Time: 1475344865
+Text:
+Great craft beers, food was good for a bar and service was excellent
+-
+Author: Michael R Coffey Jr
+Rating: 2
+Time: 1446150051
+Text:
+Order was wrong, fries were overcooked.  Better off eating beforehand. 
+-
+Author: Chris Faulkner
+Rating: 5
+Time: 1472681196
+Text:
+Good food, great service, nice environment 
+-
+Author: Clyde Rittel
+Rating: 4
+Time: 1462991399
+Text:
+Great fried chicken and good friendly people 
+-

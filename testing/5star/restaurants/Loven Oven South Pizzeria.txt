@@ -1,0 +1,31 @@
+Loven Oven South Pizzeria
+Author: Rick Bachman
+Rating: 4
+Time: 1504650151
+Text:
+Excellent pizza at a good price.
+-
+Author: Scott C
+Rating: 5
+Time: 1492403196
+Text:
+Really good food all around and the service from the kids inside was excellent. 
+-
+Author: Julie Sansone
+Rating: 5
+Time: 1461810173
+Text:
+First time ever eating at Loven Oven....I called and asked if they could make me a very thin crust pizza..1/2 mushroom and pizza sauce...1/2 pepperoni and barbecue sauce....the women told me she would try....well they nailed it! Happy customers that will be back. Great customer service as well.
+-
+Author: Patricia Holloway
+Rating: 5
+Time: 1489792173
+Text:
+Love their veggie pizza. Yum....
+-
+Author: Larry Just
+Rating: 5
+Time: 1501423256
+Text:
+Great food and service
+-

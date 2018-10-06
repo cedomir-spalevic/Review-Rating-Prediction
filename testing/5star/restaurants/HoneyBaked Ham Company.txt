@@ -1,0 +1,31 @@
+HoneyBaked Ham Company
+Author: Noah Blunier
+Rating: 4
+Time: 1494021613
+Text:
+Fast service and quality sandwiches, but pretty expensive costs.
+-
+Author: Jeremy Delaney
+Rating: 1
+Time: 1497032012
+Text:
+This location tarnishes honeybaked hams reputation, horrible in comparison to other locations
+-
+Author: Brenda White
+Rating: 5
+Time: 1497554075
+Text:
+Very good food.
+-
+Author: Beth M Tomac
+Rating: 5
+Time: 1488448578
+Text:
+Good food but pricey
+-
+Author: Eric Wilborn
+Rating: 5
+Time: 1470754696
+Text:
+Great place to grab lunch! Try the box lunch and pick what you want!
+-

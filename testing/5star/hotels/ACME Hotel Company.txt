@@ -1,0 +1,31 @@
+ACME Hotel Company
+Author: Rob Rickey
+Rating: 4
+Time: 1506016961
+Text:
+Eclectic boutique hotel in the heart of Ohio Street. Old Chicago building so don't expect Holiday Inn sized rooms. Eatery and Bar in the lobby and a Starbucks just across the street. Comfortable bed and rain shower made for a nice stay. Neat and useful that they put Amazon Echos in the room with their own ACME skill too.
+-
+Author: Virginia Rosa-Velasquez
+Rating: 4
+Time: 1502818377
+Text:
+If you're looking for a hotel with a lot of personality, convenience and great service, this is it! The room had a funky retro rockabilly feel to it but still managed to remain unpretentious. Staff was very helpful and concierge was great! The only negative I found was a handful of cheerios under an auto man and a large bug of some sort that escaped before I could see what it was! 
+-
+Author: Kirsty Savastano
+Rating: 5
+Time: 1501689613
+Text:
+This place is awesome. Won't stay anywhere else in Chicago! Cool rooms, super clean, outstanding staff! Have the coolest amenities like free coffee  delivery, Alexa in your room, awesome hot tub! And they are super adorable! Highly recommend you don't waste your time going anywhere else but here!
+-
+Author: Jeanne Winding
+Rating: 4
+Time: 1507851900
+Text:
+Cute boutique hotel in a good location with rooms that were nice and clean. The staff was friendly. I agree with those that said the counter space was non-existent in the bathroom, particularly for 3 people. They could also use better and more lighting. Start by putting a better light bulb in the entty to room 1408.
+-
+Author: David LeBeau
+Rating: 5
+Time: 1506987914
+Text:
+This hotel was great! Friendly, helpful staff really showed and was the cherry on top. Little touches like rock music in the elevator, a guide on the TV (which had a really nice full HD picture), decorative art everywhere, creative door covers a for the ice machine, exits, and elevators, Alexa in the room, and second floor lounge also made our stay enjoyable.
+-
