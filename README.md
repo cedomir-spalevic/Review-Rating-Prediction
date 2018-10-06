@@ -1,4 +1,4 @@
-# rating-prediction
+# Rating Prediction
 Attempting to predict the rating on a given review using the Stanford NLP API
 
 <br/>
